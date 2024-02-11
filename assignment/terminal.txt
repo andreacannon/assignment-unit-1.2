@@ -9,13 +9,14 @@
 # 4 - What is a quick way to create a new folder?
     mkdir
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-    In an empty folder, nothing will be logged. In a files-containing folder, the contencts will be listed. 
+    In an empty folder, nothing will be logged out. In a files-containing folder, the contencts will  log out. 
 # 6 - What is a quick way to create a new file?
-
+    The touch command followed by the name of the file and type. Ex: touch name-file.js. 
 # 7 - Run 'git --version' in your terminal. What is the output?
-
+    version 2.33.0
 # 8 - Why would you run the command 'git status'?
-
+    To determine whether changes made to the file have been saved and pushed. 
 # 9 - What does the command 'git add .' do?
-
+    Adds all changes to the stage. 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+    git push origin  main
